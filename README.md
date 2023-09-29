@@ -1,7 +1,7 @@
 # Hi there, I'm Deep! 👋
 
 - 🌱 I’m currently doing **Full Stack Web Development** and **Cloud Computing**
-- 👨‍💻 All of my projects are available at **[here][github]** or **[https://portfolio-website-eta-ten.vercel.app/][website]**
+- 👨‍💻 All of my projects are available at **[here]** or **[https://portfolio-website-eta-ten.vercel.app/]**
 - 📫 How to reach me **deeprahangdale2003@gamil.com**
 - 👻 **npx** adityacprtm
 - ⚡ Fun fact **pevita lovers** 💘
