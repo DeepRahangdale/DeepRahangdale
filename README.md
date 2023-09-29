@@ -7,7 +7,7 @@
 
 ## 😎 Connect with me
 
-[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https://portfolio-website-eta-ten.vercel.app)][website]
+[![Website](https://img.shields.io/website?label=DeepRahangdale&style=for-the-badge&url=https%3A%2F%2portfolio-website-eta-ten.vercel.app)][website]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
