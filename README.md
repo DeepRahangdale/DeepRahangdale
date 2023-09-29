@@ -1,14 +1,15 @@
 # Hi there, I'm Deep! 👋
 
 - 🌱 I’m currently doing **Full Stack Web Development** and **Cloud Computing**
-- 👨‍💻 All of my projects are available at **[here]** or **[https://portfolio-website-eta-ten.vercel.app]**
+- 👨‍💻 All of my projects are available at **here** or **https://portfolio-website-eta-ten.vercel.app**
 - 📫 How to reach me **deeprahangdale2003@gmail.com**
-- 👻 **npx** adityacprtm
+- 👻 **Fond of** Cricket , Badminton , Coding
 
 ## 😎 Connect with me
 
 ![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio-website-eta-ten.vercel.app)
 ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)
+![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 
 ## 👨‍💻 Technologies and Tools
