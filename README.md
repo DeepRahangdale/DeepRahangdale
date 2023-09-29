@@ -4,11 +4,10 @@
 - 👨‍💻 All of my projects are available at **[here]** or **[https://portfolio-website-eta-ten.vercel.app]**
 - 📫 How to reach me **deeprahangdale2003@gmail.com**
 - 👻 **npx** adityacprtm
-- ⚡ Fun fact **pevita lovers** 💘
 
 ## 😎 Connect with me
 
-[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https%3A%2F%2Fadityacprtm.dev)][website]
+[![Website](https://img.shields.io/website?label=Adityacprtm.dev&style=for-the-badge&url=https://portfolio-website-eta-ten.vercel.app)][website]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
