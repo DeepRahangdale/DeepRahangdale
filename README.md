@@ -11,7 +11,7 @@
 ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
-[![Mail Badge](https://img.shields.io/badge/-deeprahangdale-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:deeprahangdale2003@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/deeprahangdale-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:deeprahangdale2003@gmail.com)
 
 ## 👨‍💻 Technologies and Tools
 
