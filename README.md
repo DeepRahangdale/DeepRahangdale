@@ -8,7 +8,7 @@
 ## 😎 Connect with me
 
 ![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio-website-eta-ten.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis)
+[![Instagram](https://img.shields.io/badge/Instagram-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/deeprahangdale/)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-rahangdale-246909272/)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/DeepRahangdale1)
 [![Mail Badge](https://img.shields.io/badge/deeprahangdale-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:deeprahangdale2003@gmail.com)
