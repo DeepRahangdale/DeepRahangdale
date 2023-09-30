@@ -10,7 +10,7 @@
 ![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio-website-eta-ten.vercel.app)
 ![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
-[![Twitter Badge](https://img.shields.io/badge/twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)(https://twitter.com/Ipenywis)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/DeepRahangdale1)
 ![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
 [![Mail Badge](https://img.shields.io/badge/deeprahangdale-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:deeprahangdale2003@gmail.com)
 
