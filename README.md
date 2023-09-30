@@ -4,8 +4,9 @@
 - 👨‍💻 All of my projects are available at **Github** or **https://portfolio-website-eta-ten.vercel.app**
 - 📫 How to reach me **deeprahangdale2003@gmail.com**
 - 👻 **Fond of**  Cricket🏏 Badminton🏸 Coding💻
-- 
- <p align="left">
+
+<div id="header" align="center">
+  <p align="left">
       <img src="https://komarev.com/ghpvc/?username=DeepRahangdale&label=Profile%20views&color=0e75b6&style=flat" alt="DeepRahangdale" />
    </p>
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="250" >
