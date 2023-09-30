@@ -7,7 +7,6 @@
 
 ## 😎 Connect with me
 
-![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio-website-eta-ten.vercel.app)
 [![Website](https://img.shields.io/website?label=My%20Portfolio&style=for-the-badge&url=https%3A%2F%2Fportfolio-website-eta-ten.vercel.app)](https://portfolio-website-eta-ten.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/deeprahangdale/)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-rahangdale-246909272/)
