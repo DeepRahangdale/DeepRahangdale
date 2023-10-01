@@ -9,7 +9,15 @@
 <div id="header" align="center">
   <p align="left">
       <img src="https://komarev.com/ghpvc/?username=DeepRahangdale&label=Profile%20views&color=0e75b6&style=flat" alt="DeepRahangdale" />
-   </p>
+ 
+<a href="https://github.com/DeepRahangdale?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DeepRahangdale?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/DeepRahangdale?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DeepRahangdale?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<a href="https://github.com/DeepRahangdale">
+    <img src="https://komarev.com/ghpvc/?username=DeepRahangdale&label=Profile%20views&color=55960c&style=for-the-badge"/>
+</a>  
+</p>
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="250" >
   <div>
     
@@ -41,12 +49,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DeepRahangdale&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>
-<a href="https://github.com/DeepRahangdale?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DeepRahangdale?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/DeepRahangdale?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DeepRahangdale?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-<a href="https://github.com/DeepRahangdale">
-    <img src="https://komarev.com/ghpvc/?username=DeepRahangdale&label=Profile%20views&color=55960c&style=for-the-badge"/>
-</a>  
-</p>
+
