@@ -46,4 +46,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DeepRahangdale&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+    <div style="flex: 1; margin-right: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true"/>
+    </div>
+    <div style="flex: 1;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepRahangdale&theme=solarized-dark&hide_border=false"/>
+    </div>
+</div>
+
+<div style="margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
+
 
