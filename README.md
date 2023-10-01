@@ -42,17 +42,20 @@
 | Other              | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=mathworks&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Upstash](https://img.shields.io/badge/Upstash-0087E6?style=for-the-badge&logo=upstash&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-FF6600?style=for-the-badge&logo=openai&logoColor=white)
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 48%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true"/>
-    </div>
-    <div style="width: 48%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepRahangdale&theme=solarized-dark&hide_border=false"/>
-    </div>
-</div>
+<table>
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true"/>
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepRahangdale&theme=solarized-dark&hide_border=false"/>
+    </td>
+  </tr>
+</table>
 
 <div style="margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
+
 
 
