@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing **Full Stack Web Development** and **Cloud Computing**
 - 👨‍💻 All of my projects are available at **Github** or **https://portfolio-website-eta-ten.vercel.app**
 - 📫 How to reach me **deeprahangdale2003@gmail.com**
-- 👻 **Fond of**  Cricket🏏 Badminton🏸 Coding💻
+- 👻 **Fond of**  Cricket🏏 Badminton🏸 Documentation📄 Coding💻
 - ⚡ Fun fact **I am very Friendly**
 
 <div id="header" align="center">
