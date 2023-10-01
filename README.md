@@ -1,10 +1,10 @@
 # Hi there, I'm Deep! 👋
 
 - 🌱 I’m currently doing **Full Stack Web Development** and **Cloud Computing**
-- 👨‍💻 All of my projects are available at **Github** or **https://portfolio-website-eta-ten.vercel.app**
+- 📚 I’m doing my B.Tech from **Indian Institute of Information Technology,Kottayam**
+- 👨‍💻 All of my projects are available at **Github**
 - 📫 How to reach me **deeprahangdale2003@gmail.com**
 - 👻 **Fond of**  Cricket🏏 Badminton🏸 Documentation📄 Coding💻
-- ⚡ Fun fact **I am very Friendly**
 
 <div id="header" align="center">
 <a href="https://github.com/DeepRahangdale?tab=followers">
