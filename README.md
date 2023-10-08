@@ -60,5 +60,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
+# 🏆 GitHub Trophies
 
+<p align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=DeepRahangdale&theme=gruvbox&no-frame=true&no-bg=true" alt="hasanshahriar32 :: GitHub Trophies"/>
+
+  
+
+</p>
 
