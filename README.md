@@ -17,7 +17,6 @@
     <img src="https://komarev.com/ghpvc/?username=DeepRahangdale&label=Profile%20views&color=55960c&style=for-the-badge"/>
 </a>  
 </p>
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="250" >
   <div>
     
 ## 😎 Connect with me
