@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 <p align="center">
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
 
@@ -73,7 +73,7 @@
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<p align="left">
   <img  src="https://github-profile-trophy.vercel.app/?username=DeepRahangdale&theme=gruvbox&no-frame=true&no-bg=true" alt="hasanshahriar32 :: GitHub Trophies"/>
 
   
