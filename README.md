@@ -10,17 +10,6 @@
 - 📫 How to reach me **deeprahangdale2003@gmail.com**
 - 👻 **Fond of**  Cricket🏏 Badminton🏸 Documentation📄 Coding💻
 
-
-<div id="header" align="center">
-<a href="https://github.com/DeepRahangdale?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DeepRahangdale?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/DeepRahangdale?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DeepRahangdale?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-<a href="https://github.com/DeepRahangdale">
-    <img src="https://komarev.com/ghpvc/?username=DeepRahangdale&label=Profile%20views&color=55960c&style=for-the-badge"/>
-</a>  
-</p>
-  <div>
     
 ## 😎 Connect with me
 
@@ -64,6 +53,17 @@
 <div style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
+
+<div id="header" align="center">
+<a href="https://github.com/DeepRahangdale?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DeepRahangdale?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/DeepRahangdale?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DeepRahangdale?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<a href="https://github.com/DeepRahangdale">
+    <img src="https://komarev.com/ghpvc/?username=DeepRahangdale&label=Profile%20views&color=55960c&style=for-the-badge"/>
+</a>  
+</p>
+  <div>
 
 # 🏆 GitHub Trophies
 
