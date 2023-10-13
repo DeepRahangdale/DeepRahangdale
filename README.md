@@ -50,11 +50,9 @@
   </tr>
 </table>
 
-<p align="center">
-  <div style="margin-top: 20px; display: flex; justify-content: center;"> <!-- Add display: flex and justify-content: center; -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  </div>
-</p>
+<div style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
 
 # ✍️ Random Dev Quote
 <p align="center">
