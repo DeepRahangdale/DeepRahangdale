@@ -40,14 +40,11 @@
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td style="width: 33.33%; text-align: center;">
+    <td style="width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true"/>
     </td>
-    <td style="width: 33.33%; text-align: center;">
+    <td style="width: 50%;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepRahangdale&theme=solarized-dark&hide_border=false"/>
-    </td>
-    <td style="width: 33.33%; text-align: center;">
-      <img src="https://your-third-github-stats-url-here"/>
     </td>
   </tr>
 </table>
