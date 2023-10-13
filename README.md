@@ -71,8 +71,7 @@
 </p>
   <div>
       
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepRahangdale&hide=contribs,prs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeepRahangdale&repo=github-readme-stats)](https://github.com/DeepRahangdale/DeepRahangdale)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/DeepRahangdale/github-readme-stats)
 
 <!--
 # 🏆 GitHub Trophies
