@@ -49,9 +49,9 @@
   </tr>
 </table>
 
-<div style="margin-top: 20px;">
+<div id="header" align="center" style="margin-top: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/DeepRahangdale/github-readme-stats)
+
 </div>
 
 # ✍️ Random Dev Quote
