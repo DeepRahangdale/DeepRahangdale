@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently doing **Full Stack Web Development** and **Cloud Computing**
 - 📚 I’m doing my B.Tech from **Indian Institute of Information Technology, Kottayam**
-- 👨‍💻 All of my projects are available at [**here**](https://github.com/DeepRahangdale) or [**portfolio**](https://deeprahangdale-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [**here**](https://github.com/DeepRahangdale) or [**deeprahangdale-portfolio**](https://deeprahangdale-portfolio.vercel.app/)
 - 📝 I regulary write articles on [**my blog**](https://deep76.hashnode.dev/)
 - 📫 How to reach me **deeprahangdale2003@gmail.com**
 - 👻 **Fond of**  Cricket🏏 Badminton🏸 Documentation📄 Coding💻
