@@ -71,8 +71,6 @@
 </p>
   <div>
       
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeepRahangdale)](https://github.com/DeepRahangdale/github-readme-stats)
-
 <!--
 # 🏆 GitHub Trophies
 
