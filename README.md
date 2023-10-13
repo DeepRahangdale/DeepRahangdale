@@ -50,10 +50,11 @@
   </tr>
 </table>
 
+<p align="center">
 <div style="margin-top: 20px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRahangdale&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
-
+</p>
 # ✍️ Random Dev Quote
 <p align="center">
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
