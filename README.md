@@ -72,7 +72,7 @@
 </p>
   <div>
       
-<!--
+
 # 🏆 GitHub Trophies
 
 <p align="left">
