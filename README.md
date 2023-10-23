@@ -84,5 +84,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepRahangdale&hide=contribs,prs)
 -->
 ![Funny Meme](https://i.redd.it/3u09lz9xwqvb1.png?width=100&height=100)
-* Meme Author: [BlackpillGuy](https://www.reddit.com/user/BlackpillGuy/)
+Meme Author: [BlackpillGuy](https://www.reddit.com/user/BlackpillGuy/)
 
