@@ -80,7 +80,6 @@
 <p align="left">
   <img  src="https://github-profile-trophy.vercel.app/?username=DeepRahangdale&theme=gruvbox&no-frame=true&no-bg=true" alt="hasanshahriar32 :: GitHub Trophies"/>
 
-
 </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepRahangdale&hide=contribs,prs)
 -->
