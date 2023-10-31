@@ -76,7 +76,6 @@
 
 <!--
 # 🏆 GitHub Trophies
-
 <p align="left">
   <img  src="https://github-profile-trophy.vercel.app/?username=DeepRahangdale&theme=gruvbox&no-frame=true&no-bg=true" alt="hasanshahriar32 :: GitHub Trophies"/>
 </p>
