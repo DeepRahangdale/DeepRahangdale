@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [**here**](https://github.com/DeepRahangdale) or [**deeprahangdale-portfolio**](https://deeprahangdale-portfolio.vercel.app/)
 - 📝 I regulary write articles on [**my blog**](https://deep76.hashnode.dev/)
 - 📫 How to reach me **deeprahangdale2003@gmail.com**
-- 👻 **Fond of**  Cricket🏏 Badminton🏸 Documentation📄 Coding💻
+- 👻 **Fond of**  Cricket🏏 Badminton🏸 Documentation📄Coding💻
 
     
 ## 😎 Connect with me
