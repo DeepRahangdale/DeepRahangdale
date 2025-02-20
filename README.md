@@ -85,3 +85,4 @@
  ![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepRahangdale&hide=contribs,prs) -->
 
 
+https://docs.google.com/presentation/d/1rfuY-pvp43IbgB5MXgdjgFGYBwWC1SxoWl3Q6PvqDsM/edit?usp=sharing
